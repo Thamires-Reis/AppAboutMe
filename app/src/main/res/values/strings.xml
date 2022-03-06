@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AppAboutMe</string>
+    <string name="achievements">Achievements</string>
+    <string name="photo">photo</string>
+    <string name="thamires_reis">Thamires Reis</string>
+    <string name="im_28_a_computer_science_student_at_dorset_college">Im 28 a computer science student at Dorset College</string>
+    <string name="email_23763_student_dorset_college_ie">Email:23763@student.dorset-college.ie</string>
+    <string name="education">Education</string>
+    <string name="skills">Skills</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="copyright_thamires_reis_2022_built_with_android_studio">© Copyright Thamires Reis 2022, Built with Android Studio</string>
+    <string name="thamires_martins_reis">Thamires Martins Reis</string>
+    <string name="computer_science_student">Computer Science Student</string>
+    <string name="dorset_college_is_a_private_college_located_in_dublin_city_centre_founded_in_1983_it_provides_training_in_computing_business_english_language_university_foundation_programmes_and_healthcare">Dorset College is a private college, located in Dublin city centre. Founded in 1983, it provides training in Computing, Business, English Language, University Foundation Programmes and Healthcare.</string>
+    <string name="dorset">dorset</string>
+    <string name="aboutme">My Name is Thamires im 28. Currently i am studying computer science at Dorset College.</string>
+    <string name="founded_in_1983_dorset_college_is_committed_to_developing_high_quality_programmes_to_meet_the_challenges_of_an_increasingly_diverse_learner_base_and_demanding_workplace_the_college_has_grown_into_a_vibrant_centre_for_learning_and_offers_a_comprehensive_range_of_learning_opportunities_to_equip_learners_with_accredited_learning_and_skills_that_have_international_industry_recognition_and_which_are_relevant_to_the_workplace_of_the_future_our_learner_focused_approach_recognises_the_individual_learner_s_needs_and_interests_and_seeks_to_enhance_their_inherent_skills_and_potential_and_to_encourage_self_reliance_and_autonomy_in_life_long_learning_dorset_college_is_committed_to_the_learner_and_educational_excellence_we_strive_to_nurture_the_individuality_of_all_the_learners_through_our_pedagogical_methods_and_using_academic_support_and_pastoral_processes_that_maximise_self_concept_confidence_learning_and_career_potential">Founded in 1983, Dorset College is committed to developing high-quality programmes to meet the challenges of an increasingly diverse learner base and demanding workplace. The college has grown into a vibrant centre for learning and offers a comprehensive range of learning opportunities to equip learners with accredited learning and skills that have international industry recognition and which are relevant to the workplace of the future. Our learner-focused approach recognises the individual learner’s needs and interests and seeks to enhance their inherent skills and potential and to encourage self-reliance and autonomy in life-long learning. Dorset College is committed to the learner and educational excellence. We strive to nurture the individuality of all the learners through our pedagogical methods and using academic support and pastoral processes that maximise self-concept, confidence, learning and career potential.</string>
+    <string name="android">android</string>
+    <string name="java_sql_software_development_project_management_javascript_linux_operating_systems_android_studio_information_systems_design">Java SQL Software development Project management JavaScript™ Linux operating systems Android studio Information systems design</string>
+    <string name="skills2">Java,SQL, Software development, Project management,JavaScript, Linux operating systems, Android studio, Information systems design</string>
+    <string name="my_name_is_thamires_i_study_computer_science_at_dorset_college">My name is Thamires i study computer science at Dorset College</string>
+    <string name="education_logo">education_logo</string>
+    <string name="bike">bike</string>
+    <string name="movie">movie</string>
+    <string name="beach">beach</string>
+    <string name="headphone">headphone</string>
+    <string name="puzzle">puzzle</string>
+    <string name="game">game</string>
+    <string name="I_have_hobbies_such_as_watch_movies_and_series_listen_to_music_ride_a_bike_go_to_the_beach_play_game_with_friends_and_family">I Hobbies such as watch movies and series, listen to music, ride a bike, go to the beach, play game with friends and family.</string>
+    <string name="i_have_hobbies_such_as_watch_movies_and_series_listen_to_music_ride_a_bike_go_to_the_beach_and_play_games_with_family_and_friends">I have hobbies such as watch movies and series, listen to music, ride a bike, go to the beach and play games with family and friends.</string>
+    <string name="award">award</string>
+    <string name="being_able_to_pursue_interesting_high_quality_work_that_has_a_positive_impact_securing_awards_promotions_and_other_acknowledgements_of_achievement_maintaining_a_happy_and_healthy_family_life_as_well_as_a_career_handling_challenge_complexity_and_change_exercising_leadership_authority_and_influence">Being able to pursue interesting, high-quality work that has a positive impact. Securing awards, promotions and other acknowledgements of achievement. Maintaining a happy and healthy family life as well as a career. Handling challenge, complexity and change. Exercising leadership, authority and influence.</string>
+    <string name="exit">Exit</string>
+</resources>

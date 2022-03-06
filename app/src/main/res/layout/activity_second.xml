@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#08222E"
+    android:scrollbars="horizontal"
+    tools:context=".SecondActivity">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:layout_marginTop="16dp"
+                android:contentDescription="@string/education_logo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_education" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="47dp"
+                android:layout_marginTop="100dp"
+                android:text="@string/my_name_is_thamires_i_study_computer_science_at_dorset_college"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="123dp"
+                android:layout_marginTop="212dp"
+                android:contentDescription="@string/dorset"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.572"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/dorset" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="374dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="4dp"
+                android:fontFamily="sans-serif-medium"
+                android:scrollHorizontally="true"
+                android:text="@string/founded_in_1983_dorset_college_is_committed_to_developing_high_quality_programmes_to_meet_the_challenges_of_an_increasingly_diverse_learner_base_and_demanding_workplace_the_college_has_grown_into_a_vibrant_centre_for_learning_and_offers_a_comprehensive_range_of_learning_opportunities_to_equip_learners_with_accredited_learning_and_skills_that_have_international_industry_recognition_and_which_are_relevant_to_the_workplace_of_the_future_our_learner_focused_approach_recognises_the_individual_learner_s_needs_and_interests_and_seeks_to_enhance_their_inherent_skills_and_potential_and_to_encourage_self_reliance_and_autonomy_in_life_long_learning_dorset_college_is_committed_to_the_learner_and_educational_excellence_we_strive_to_nurture_the_individuality_of_all_the_learners_through_our_pedagogical_methods_and_using_academic_support_and_pastoral_processes_that_maximise_self_concept_confidence_learning_and_career_potential"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#F6F6F6"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.939"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/scrollView2"
+                app:layout_constraintVertical_bias="1.0" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_begin="24dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
